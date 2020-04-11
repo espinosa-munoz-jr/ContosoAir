@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/nuevojrem/EjemploNode/_apis/build/status/EjemploNode?branchName=master)](https://dev.azure.com/nuevojrem/EjemploNode/_build/latest?definitionId=9&branchName=master)
 
 
 # Microsoft.Github CI Demo
